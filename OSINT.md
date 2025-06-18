@@ -27,9 +27,9 @@ So I started looking for a website called "FlagLover": `inurl:flaglover`
 This gave nothing but I saw a twitch channel named "FlagLover", which made me think that "FlagLover" may be, indeed, the username that posted the flag. 
 
 I searched for `"flaglover" drapeau` aswell as `"flaglover" forum`, saw this result in both: 
-![03bd2ba9c6107fc2df841e0c442c0c2a.png](:/04eaf9286056438f82d4fd1968fd56da)
+![image](https://github.com/user-attachments/assets/b1d7ce85-f3df-4482-aba4-b68ff95bb6c8)
 
 Went on the page, scrolled for a bit, and found the post:
-![81d9bf72d726e32e78c8fd9d64853840.png](:/c90f990d04554ab99fdeeb93bba3b829)
+![image](https://github.com/user-attachments/assets/4c78c930-5cd1-4498-aba6-7112b430ae4f)
 
 And there you have it ! Challenge was not hard in itself, but the lack of concrete and well-established clues had me struggling for a good half hour.
