@@ -2,6 +2,8 @@
 **Description**: 
 "Dans ce monde technologique en constante évolution, j'ai créé un nouveau design de drapeau pour notre pays qui collera bien mieux à notre Corpo. Je ne sais pas si le conseil va l'accepter. Mais en attendant, je l'ai partagé sur un site avec des passionnés de drapeaux fake pour connaître leur avis. J'ai même pu y glisser ma citation favorite."
 
+*Eng-translation: "In this ever-evolving technological world, I created a new flag design for our country that fits much better with our Corpo. I don’t know if the council will approve it. But in the meantime, I shared it on a site with fake flag enthusiasts to get their opinions. I even managed to slip in my favorite quote."*
+
 ## Initial Thoughts/Analysis
 
 Several keywords stood out to me: 
