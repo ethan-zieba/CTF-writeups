@@ -6,7 +6,7 @@
 *Eng-translation: "You have just picked up a strange message probably coming from another planet... it's up to you to decipher it. In what language was this message written? Format flag: HNx04{French}"*
 
 An image was included in the challenge:
-![assets](https://github.com/user-attachments/assets/74abf9a2-d92f-49ad-8f66-b857b33e5007)
+<img src="https://github.com/user-attachments/assets/74abf9a2-d92f-49ad-8f66-b857b33e5007" width="300">
 
 ## Analysing and Solving
 
