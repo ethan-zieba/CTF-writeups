@@ -7,7 +7,7 @@
 
 An image was included in the challenge:
 
-<img src="https://github.com/user-attachments/assets/74abf9a2-d92f-49ad-8f66-b857b33e5007" width="300">
+<img src="https://github.com/user-attachments/assets/74abf9a2-d92f-49ad-8f66-b857b33e5007" width="450">
 
 ## Analysing and Solving
 
