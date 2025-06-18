@@ -1,6 +1,3 @@
-# Hack'In OSINT Challenges
-* * *
-
 # Challenge: FlagLover
 **Description**: 
 "Dans ce monde technologique en constante évolution, j'ai créé un nouveau design de drapeau pour notre pays qui collera bien mieux à notre Corpo. Je ne sais pas si le conseil va l'accepter. Mais en attendant, je l'ai partagé sur un site avec des passionnés de drapeaux fake pour connaître leur avis. J'ai même pu y glisser ma citation favorite."
