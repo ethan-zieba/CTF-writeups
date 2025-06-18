@@ -12,5 +12,6 @@ An image was included in the challenge:
 ## Analysing and Solving
 
 Honestly, I'm just a huge Star Wars nerd, so I recognized the Aurebesh* alphabet at first sight and could even almost read the words.
-**Fun-fact, the name "Aurebesh" comes from the first two letters "Aurek" and "Besh", the alphabet is sometimes referred to as "Aurekbesh" in that matter.*
+**Fun-fact, the name "Aurebesh" comes from the first two letters "Aurek" and "Besh", the alphabet is sometimes referred to as "Aurekbesh" in that matter. The alphabet in itself is basically a hugely modified latin alphabet.*
+
 If someone really wanted to make sure it was Aurebesh, they would just have to screen the first few words and do a quick Google Reverse Image Search—and voilà.
