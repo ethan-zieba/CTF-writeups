@@ -31,6 +31,6 @@ I searched for `"flaglover" drapeau` aswell as `"flaglover" forum`, saw this res
 
 Went on the page, scrolled for a bit, and found the post:
 ![image](https://github.com/user-attachments/assets/4c78c930-5cd1-4498-aba6-7112b430ae4f)
-<img src="[https://github.com/username/repo/blob/main/image.png?raw=true](https://github.com/user-attachments/assets/4c78c930-5cd1-4498-aba6-7112b430ae4f)" width="400">
+<img src="https://github.com/user-attachments/assets/4c78c930-5cd1-4498-aba6-7112b430ae4f" width="400">
 
 And there you have it ! Challenge was not hard in itself, but the lack of concrete and well-established clues had me struggling for a good half hour.
